@@ -1,0 +1,13 @@
+Fri Apr 08 11:36:06 ADT 2022
+Exceeds: 2428
+Meets: 1185
+Marginal: 472
+Fails: 335
+Others: 924
+
+Repeats: 
+Exceeds: 81
+Meets: 69
+Marginal: 41
+Fails: 58
+Others: 205
